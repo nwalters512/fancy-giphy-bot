@@ -1,23 +1,15 @@
 {
-  "name": "giphybot",
+  "name": "areyoudumbbot",
   "version": "0.0.1",
-  "description": "An animated gif bot for Groupme.",
+  "description": "Responds to 'Are you dumb?' with 'yes'.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "github.com:cmcavoy/giphybot.git"
-  },
-  "author": "Chris McAvoy <chris.mcavoy@gmail.com>",
+  "author": "Nathan Walters <nwalters512@gmail.com>",
   "license": "BSD",
-  "bugs": {
-    "url": "https://github.com/cmcavoy/giphybot/issues"
-  },
   "dependencies": {
     "fancy-groupme-bot": "0.1.2",
-    "giphy-wrapper": "0.0.1",
     "underscore": "~1.5.2",
     "natural": "~0.1.21",
     "request": "~2.27.0"
